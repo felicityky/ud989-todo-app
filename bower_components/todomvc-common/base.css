@@ -224,6 +224,7 @@ label[for='toggle-all'] {
 }
 
 #todo-list li .priority-btn {
+/*.priority-btn {*/
 	display: none;
 	height: auto;
 	position: absolute;
